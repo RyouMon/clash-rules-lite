@@ -14,7 +14,7 @@
 
 <p>
   <pre align="center">
-  https://cdn.jsdelivr.net/gh/RyouMon/clash-rules-lite@release/proxy-rules.txt</pre>
+  https://cdn.jsdelivr.net/gh/RyouMon/clash-rules@release/proxy-rules.txt</pre>
 </p>
 
 <p align="center">
