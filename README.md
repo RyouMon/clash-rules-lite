@@ -17,4 +17,6 @@
   https://cdn.jsdelivr.net/gh/RyouMon/clash-rules-lite@release/proxy-rules.txt</pre>
 </p>
 
-[Refresh CDN Cache](https://purge.jsdelivr.net/gh/RyouMon/clash-rules-lite@release/proxy-rules.txt)
+<p align="center">
+  <a href="https://purge.jsdelivr.net/gh/RyouMon/clash-rules-lite@release/proxy-rules.txt">Refresh CDN Cache</a>
+</p>
