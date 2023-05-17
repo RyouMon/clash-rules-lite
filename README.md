@@ -5,27 +5,24 @@
   <p align="center">🍒 自定义代理规则，精简匹配规则。</p>
  
   <p align="center">
-    <a href="https://github.com/zhanyeye/clash-rules-lite/blob/master/.github/workflows/release.yml">
-    <img src="https://github.com/zhanyeye/clash-rules-lite/actions/workflows/release.yml/badge.svg" />
+    <a href="https://github.com/RyouMon/clash-rules-lite/blob/master/.github/workflows/release.yml">
+    <img src="https://github.com/RyouMon/clash-rules-lite/actions/workflows/release.yml/badge.svg" />
     </a>
   </p>
  
   <p align="center">
-    <a href="https://github.com/zhanyeye/clash-rules-lite/blob/main/proxy-rules.txt">代理规则列表</a> |
-    <a href="https://github.com/zhanyeye/clash-rules-lite/blob/main/microsoft-rules.txt">微软服务规则列表</a> |
-    <a href="https://github.com/zhanyeye/clash-rules-lite/blob/main/blacklist-rules.txt">黑名单规则列表</a>
+    <a href="https://github.com/RyouMon/clash-rules-lite/blob/main/proxy-rules.txt">代理规则列表</a> |
+    <a href="https://github.com/RyouMon/clash-rules-lite/blob/main/microsoft-rules.txt">微软服务规则列表</a> |
+    <a href="https://github.com/RyouMon/clash-rules-lite/blob/main/blacklist-rules.txt">黑名单规则列表</a>
   </p>
 
 </p>
 
 <p>
   <pre align="center">
-  https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/proxy-rules.txt    
-  https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/microsoft-rules.txt
-  https://cdn.jsdelivr.net/gh/zhanyeye/clash-rules-lite@release/blacklist-rules.txt</pre>
-</p>
-<p align="center">
-已稳定使用2年的机场推荐：https://sspcloud.net/#/register?code=4L83QEU9
+  https://cdn.jsdelivr.net/gh/RyouMon/clash-rules-lite@release/proxy-rules.txt    
+  https://cdn.jsdelivr.net/gh/RyouMon/clash-rules-lite@release/microsoft-rules.txt
+  https://cdn.jsdelivr.net/gh/RyouMon/clash-rules-lite@release/blacklist-rules.txt</pre>
 </p>
 
 ### 工具介绍
