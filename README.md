@@ -5,8 +5,8 @@
   <p align="center">🍒 自定义代理规则。</p>
  
   <p align="center">
-    <a href="https://github.com/RyouMon/clash-rules-lite/blob/master/.github/workflows/release.yml">
-    <img src="https://github.com/RyouMon/clash-rules-lite/actions/workflows/release.yml/badge.svg" />
+    <a href="https://github.com/RyouMon/clash-rules/blob/master/.github/workflows/release.yml">
+    <img src="https://github.com/RyouMon/clash-rules/actions/workflows/release.yml/badge.svg" />
     </a>
   </p>
 
@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <a href="https://purge.jsdelivr.net/gh/RyouMon/clash-rules-lite@release/proxy-rules.txt">Refresh CDN Cache</a>
+  <a href="https://purge.jsdelivr.net/gh/RyouMon/clash-rules@release/proxy-rules.txt">Refresh CDN Cache</a>
 </p>
