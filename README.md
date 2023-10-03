@@ -12,11 +12,19 @@
 
 </p>
 
-<p>
-  <pre align="center">
-  https://cdn.jsdelivr.net/gh/RyouMon/clash-rules@release/proxy-rules.txt</pre>
-</p>
+
+```text
+https://cdn.jsdelivr.net/gh/RyouMon/clash-rules@release/proxy-rules.txt
+```
 
 <p align="center">
-  <a href="https://purge.jsdelivr.net/gh/RyouMon/clash-rules@release/proxy-rules.txt">Refresh CDN Cache</a>
+  <a href="https://purge.jsdelivr.net/gh/RyouMon/clash-rules@release/proxy-rules.txt">Refresh</a>
+</p>
+
+```text
+https://cdn.jsdelivr.net/gh/RyouMon/clash-rules@release/direct-rules.txt
+```
+
+<p align="center">
+  <a href="https://purge.jsdelivr.net/gh/RyouMon/clash-rules@release/direct-rules.txt">Refresh</a>
 </p>
