@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-KEYWORD,thz
+  - DOMAIN-SUFFIX,calibre-ebook.com
